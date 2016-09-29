@@ -21,7 +21,6 @@ public class FallOfTheHouyhnhnms extends PApplet {
 	private ControllersMenu settingsMenu;
 	private PopNodeManager nodeManager;
 	private PopAIController aiController;
-	private PopAIController aiController0;
 	private PopAIController aiController1;
 	private AnimSVGMinion tempMinion;
 	private AnimSVGMinion tempMinion2;
